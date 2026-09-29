@@ -1,0 +1,6 @@
+{
+  "name": "AURA Atelier - Joyería & Marroquinería Fina",
+  "description": "Boutique artesanal de joyas bañadas en oro, plata 925 y accesorios de autor con pedidos directos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
